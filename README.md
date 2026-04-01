@@ -1,7 +1,7 @@
-# URL-Riskanalys-Social
+# URL Risk Analysis Social
 
-Riskanalysmotor för bedrägeri, phishing & Social engineering detektion
+Risk analysis engine for fraud, phishing, and social engineering detection.
 
-Detta projekt bygger en riskanalysmotor för att identifiera och prioritera misstänkta bedrägeri, phishingförsök & Social engineering. Verktyget ska inte försöka “bevisa” bedrägeri, utan göra en förklarbar riskbedömning baserad på flera tekniska och innehållsmässiga signaler.
+This project is designed to build a risk analysis engine that identifies and prioritizes suspicious fraud attempts, phishing activity, and social engineering patterns. The tool is not intended to “prove” fraud, but to produce an explainable risk assessment based on multiple technical and content-based signals.
 
-Målet är att skapa ett praktiskt verktyg för tidig detektion, triagering och manuell granskning med hänsyn till falska positiva, falska negativa, integritet (GDPR) och säker sandboxing vid aktiv scanning.
+The goal is to create a practical tool for early detection, triage, and manual review, while taking false positives, false negatives, privacy considerations (GDPR), and secure sandboxing during active scanning into account.
